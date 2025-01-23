@@ -1,4 +1,5 @@
-Olá Meu nome é Kauã, sou um programador Front End, atualmente estou aprendendo e criando projetos com:
+Olá Meu nome é Kauã
+Sou um Programador Front End, sou apaixonado por tecnologia e programação, com foco no desenvolvimento web, atualmente estou aprendendo e criando projetos com:
 <br>
 <br>
 <div display=""flex >
